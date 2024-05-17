@@ -1,0 +1,12 @@
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\bin\Debug\net8.0\RabbitMQ_Producer.deps.json
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\bin\Debug\net8.0\RabbitMQ_Producer.dll
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\bin\Debug\net8.0\RabbitMQ_Producer.pdb
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\obj\Debug\net8.0\RabbitMQ_Producer.csproj.AssemblyReference.cache
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\obj\Debug\net8.0\RabbitMQ_Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\obj\Debug\net8.0\RabbitMQ_Producer.AssemblyInfoInputs.cache
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\obj\Debug\net8.0\RabbitMQ_Producer.AssemblyInfo.cs
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\obj\Debug\net8.0\RabbitMQ_Producer.csproj.CoreCompileInputs.cache
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\obj\Debug\net8.0\RabbitMQ_Producer.dll
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\obj\Debug\net8.0\refint\RabbitMQ_Producer.dll
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\obj\Debug\net8.0\RabbitMQ_Producer.pdb
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ_Producer\obj\Debug\net8.0\ref\RabbitMQ_Producer.dll
